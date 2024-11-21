@@ -7,7 +7,7 @@ This was made as part of a blog that you can find [here](https://www.gpt-labs.ai
 ## Features
 - **Low-Code Workflow:** Build chatbots visually without heavy coding.
 - **Local Hosting:** Keeps your data private and secure.
-- **Customizable:** Fully adjustable to your needs.
+- **Customisable:** Fully adjustable to your needs.
 - **Powered by Open-Source Models:** Utilizes Ollama's LLMs for AI capabilities.
 
 ## Workflow Overview
