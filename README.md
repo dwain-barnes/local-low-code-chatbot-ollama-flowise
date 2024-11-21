@@ -1,5 +1,7 @@
 # Local Low-Code Chatbot with Ollama and Flowise
 
+![logo](flowise_chatbot.png)
+
 Create a fully functional, local chatbot using [Flowise](https://flowiseai.com/) and [Ollama](https://ollama.com/). This project is designed to provide a low-code, privacy-friendly solution for building intelligent conversational bots. 🚀
 
 ## Features
