@@ -3,7 +3,7 @@
 ![logo](flowise_chatbot.png)
 
 Create a fully functional, local chatbot using [Flowise](https://flowiseai.com/) and [Ollama](https://ollama.com/). This project is designed to provide a low-code, privacy-friendly solution for building intelligent conversational bots. 🚀
-
+This was made as part of a blog that you can find [here](https://www.gpt-labs.ai/post/how-to-build-your-own-local-low-code-chatbot-using-ollama-and-flowise) 
 ## Features
 - **Low-Code Workflow:** Build chatbots visually without heavy coding.
 - **Local Hosting:** Keeps your data private and secure.
