@@ -9,7 +9,7 @@ Create a fully functional, local chatbot using [Flowise](https://flowiseai.com/)
 - **Powered by Open-Source Models:** Utilizes Ollama's LLMs for AI capabilities.
 
 ## Workflow Overview
-![Workflow Diagram](./assets/chatbot_workflow.png)
+![Workflow Diagram](chatbot_workflow.png)
 
 ### Core Components
 1. **ChatOllama:** Provides AI responses using Ollama's models.
